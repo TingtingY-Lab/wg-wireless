@@ -16,7 +16,7 @@ KubeEdge-Wireless Working group is responsible to simplify, develop, and optimiz
 
 ### In scope
 
-- How different topology and different scenarios affect the communication strength of kubeEdge.
+- How different topologys and different scenarios affect the communication strength of kubeEdge.
 - Random off-line issues present new challenges to kubeEdge management in wireless communication. 
 - Proactive changes in communication intensity require decentralized cloud management capabilities.
 - Explore the requirements for kubeEdge in wireless scenario. 
